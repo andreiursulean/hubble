@@ -1,17 +1,15 @@
 ## Hubble - Tech Challenge
 
-You have to solve two problems. Each one of them has a separate folder.
-You will find detailed instructions about each problem in their specific folder.
+You have to solve three (3) problems. You will find detailed instructions about each problem in their specific folder.
 
 #### How to solve
-Steps to follow to solve the challenge.
+
 1. Fork the repo.
-2. Make at least one commit for each problem.
-The more granular and detailed you are the better
-3. Make a pull request into the original repo.
+2. Make at least one commit for each problem. More granular and detailed commits are preferred.
+3. Make sure your fork is publicly accesible. Paste the link to it in the application form.
 
+#### Important information
 
-#### Info
-In order to take into account your application you will need to provide a solution to this task even if it's not a complete one.
+In order for your application to be considered, you will need to provide a solution to this task even if it's not a complete one.
 
-If you have any questions open an issue on the repo or as a last resort you can send us an email to upbdrive@gmail.com or contact us directly on [Facebook](https://www.facebook.com/upbdrive).
+If you have any questions about the challenge, we insist that you open an issue on this repo. As a last resort, you can send us an email at upbdrive@gmail.com or contact us directly on [Facebook](https://www.facebook.com/upbdrive).
